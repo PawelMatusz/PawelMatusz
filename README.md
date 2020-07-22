@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## About Me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PawelMatusz/)](https://www.linkedin.com/in/PawelMatusz/)
 <!--
 **PawelMatusz/PawelMatusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/PawelMatusz/)
+[![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)](https://github.com/PawelMatusz/)
