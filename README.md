@@ -1,11 +1,12 @@
 ## About Me
-Opened to new coding challenges, not only on the frontend.
+Looking for my first front-end developer job. Opened to new coding challenges, not only on the frontend.
+#### Social
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawel-matusz/)](https://www.linkedin.com/in/pawel-matusz/)
 
  🌱 I’m currently learning:
 - [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
+- [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/PawelMatusz/)
 
-### Social
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawel-matusz/)](https://www.linkedin.com/in/pawel-matusz/)
 <!--
 **PawelMatusz/PawelMatusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
