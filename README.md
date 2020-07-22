@@ -1,5 +1,5 @@
 ## About Me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/PawelMatusz/)](https://www.linkedin.com/in/PawelMatusz/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawel-matusz/)](https://www.linkedin.com/in/pawel-matusz/)
 <!--
 **PawelMatusz/PawelMatusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
