@@ -33,5 +33,7 @@ Here are some ideas to get you started:
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/PawelMatusz/)
 [![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)](https://github.com/PawelMatusz/)
 
+<!--
 ### Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PawelMatusz&show_icons=true&theme=radical)
+-->
