@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [![npm](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)](https://github.com/PawelMatusz/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/PawelMatusz/)
 
-
+<!--
 ### Status
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=PawelMatusz&show_icons=true&theme=radical)
-
+-->
