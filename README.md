@@ -7,6 +7,7 @@ Looking for my first front-end developer job. Opened to new coding challenges, n
 - [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
 - [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/PawelMatusz/)
 - [![Redux](https://img.shields.io/badge/-Redux-rgb(118,%2074,%20188)?style=flat-square&logo=redux)](https://github.com/PawelMatusz/)
+- [![Gatsby](https://img.shields.io/badge/-Gatsby-rgb(118,%2074,%20188)?style=flat-square&logo=gatsby)](https://github.com/PawelMatusz/)
 <!--
 **PawelMatusz/PawelMatusz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -29,6 +30,7 @@ Here are some ideas to get you started:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
 [![Redux](https://img.shields.io/badge/-Redux-rgb(118,%2074,%20188)?style=flat-square&logo=redux)](https://github.com/PawelMatusz/)
+[![Gatsby](https://img.shields.io/badge/-Gatsby-rgb(118,%2074,%20188)?style=flat-square&logo=gatsby)](https://github.com/PawelMatusz/)
 [![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=red)](https://github.com/PawelMatusz/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/PawelMatusz/)
