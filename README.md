@@ -5,6 +5,7 @@ Looking for my first front-end developer job. Opened to new coding challenges!
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/PawelMatusz/)
 [![Gatsby](https://img.shields.io/badge/-Gatsby-rgb(118,%2074,%20188)?style=flat-square&logo=gatsby)](https://github.com/PawelMatusz/)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-rgb(22,%2030,%2038)?style=flat-square&logo=graphql&logoColor=rgb(229,%2053,%20171))](https://github.com/PawelMatusz/)
 
 ## Technologies I use 💻
 
@@ -13,7 +14,6 @@ Looking for my first front-end developer job. Opened to new coding challenges!
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/PawelMatusz/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-rgb(118,%2074,%20188)?style=flat-square&logo=gatsby)](https://github.com/PawelMatusz/)
 [![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=red)](https://github.com/PawelMatusz/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/PawelMatusz/)
