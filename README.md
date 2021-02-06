@@ -1,5 +1,5 @@
 # About Me
-My name is Paweł and I am from Poland, especially from Krakow. I started programming about 2 years ago. I'm developing as a frontend developer, but I want to be fullstack in the future. I am currently looking for my first job in this position and hope to be hired to further develop my programming skills.
+My name is Paweł and I am from Poland, especially from Krakow. I started programming about 2 years ago. I'm developing as a frontend developer, but I want to be fullstack in the future. I am currently looking job in this position and hope to be hired to further develop my programming skills.
 
  ## I’m currently learning 👨‍🎓
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
