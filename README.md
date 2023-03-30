@@ -20,6 +20,8 @@ I'm a frontend developer with over 2 years of experience building websites and a
 [![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)](https://github.com/PawelMatusz/)
 [![npm](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)](https://github.com/PawelMatusz/)
 [![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/PawelMatusz/)
+[![Angular](https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular&logoColor=white&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
+
 
 ## How to reach me ✉️
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawel-matusz/)](https://www.linkedin.com/in/pawel-matusz/)
