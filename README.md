@@ -1,5 +1,5 @@
 # About Me
-My name is Paweł and I am from Poland, especially from Krakow. I started programming about 2 years ago. I'm developing as a frontend developer, but I want to be fullstack in the future. I am currently looking job in this position and hope to be hired to further develop my programming skills.
+I'm a frontend developer with over 2 years of experience building websites and applications. My skills include a strong knowledge of HTML, CSS, and JavaScript, as well as experience with tools like React and Angular. I pride myself on creating clean, efficient, and maintainable code that meets project requirements. I'm always eager to learn new technologies and tools to improve my skills and stay up-to-date in the industry. I enjoy working collaboratively with other developers to achieve the best results possible. If you're interested in working together on a project or have any questions, feel free to get in touch.
 
  ## I’m currently learning 👨‍🎓
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
