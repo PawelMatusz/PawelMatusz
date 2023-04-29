@@ -2,10 +2,11 @@
 I'm a frontend developer with over 2 years of experience building websites and applications. My skills include a strong knowledge of HTML, CSS, and JavaScript, as well as experience with tools like React and Angular. I pride myself on creating clean, efficient, and maintainable code that meets project requirements. I'm always eager to learn new technologies and tools to improve my skills and stay up-to-date in the industry. I enjoy working collaboratively with other developers to achieve the best results possible. If you're interested in working together on a project or have any questions, feel free to get in touch.
 
  ## I’m currently learning 👨‍🎓
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
-[![Figma](https://img.shields.io/badge/-Figma-gray?style=flat-square&logo=Figma)](https://github.com/PawelMatusz/)
-[![Gatsby](https://img.shields.io/badge/-Gatsby-rgb(118,%2074,%20188)?style=flat-square&logo=gatsby)](https://github.com/PawelMatusz/)
-[![GraphQL](https://img.shields.io/badge/-GraphQL-rgb(22,%2030,%2038)?style=flat-square&logo=graphql&logoColor=rgb(229,%2053,%20171))](https://github.com/PawelMatusz/)
+[![Angular](https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular&logoColor=white&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
+[![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/PawelMatusz/)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 
 ## Technologies I use 💻
 
