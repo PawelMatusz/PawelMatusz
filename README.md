@@ -14,6 +14,7 @@ I'm a frontend developer with over 2 years of experience building websites and a
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass&logoColor=pink)](https://github.com/PawelMatusz/)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
+[![Angular](https://img.shields.io/badge/-Angular-dd1b16?style=flat-square&logo=angular&logoColor=white&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)](https://github.com/PawelMatusz/)
 [![JSON](https://img.shields.io/badge/-JSON-black?style=flat-square&logo=json&logoColor=red)](https://github.com/PawelMatusz/)
 [![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/PawelMatusz/)](https://github.com/PawelMatusz/)
